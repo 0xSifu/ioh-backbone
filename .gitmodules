@@ -1,0 +1,6 @@
+[submodule "auth"]
+	path = auth
+	url = https://github.com/0xSifu/ioh-auth
+[submodule "story"]
+	path = story
+	url = https://github.com/0xSifu/ioh-stories
